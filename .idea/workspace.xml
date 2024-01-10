@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02006cf4-a99c-432b-8199-e58b79652bd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BASIC/BASIC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BASIC/src/DATATYPES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BASIC/src/INPUT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BASIC/src/OUTPUT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BASIC/src/RadiusOfCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BASIC/src/SumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="02006cf4-a99c-432b-8199-e58b79652bd3" name="Changes" comment="Day 1/100 daysOfChallenge">
+      <change afterPath="$PROJECT_DIR$/OPERATORSS/OPERATORSS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Assigment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Logical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/RELATIONAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Unary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +33,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2akF47k1d0wVQkxgEnNDWbZoYRT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,13 +47,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Arithmetic.executor": "Run",
+    "Application.Assigment.executor": "Run",
     "Application.DATATYPES.executor": "Run",
     "Application.INPUT.executor": "Run",
     "Application.Java.executor": "Run",
+    "Application.Logical.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OUTPUT.executor": "Run",
+    "Application.RELATIONAL.executor": "Run",
     "Application.RadiusOfCircle.executor": "Run",
     "Application.SumOfTwoNumbers.executor": "Run",
+    "Application.Unary.executor": "Run",
     "Application.m.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,52 +67,54 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/dodda/IdeaProjects/Java_Course/BASIC/src/Main.java"
+    "last_opened_file_path": "C:/Users/dodda/IdeaProjects/Java_Course/OPERATORS/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/dodda/IdeaProjects/Java_Course/OPERATORSS/src/Main.java",
+    "two.files.diff.last.used.file": "C:/Users/dodda/IdeaProjects/Java_Course/OPERATORS/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfTwoNumbers">
-    <configuration name="DATATYPES" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DATATYPES" />
-      <module name="BASIC" />
+  <component name="RunManager" selected="Application.Assigment">
+    <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arithmetic" />
+      <module name="OPERATORSS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="INPUT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="INPUT" />
-      <module name="BASIC" />
+    <configuration name="Assigment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assigment" />
+      <module name="OPERATORSS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OUTPUT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OUTPUT" />
-      <module name="BASIC" />
+    <configuration name="Logical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Logical" />
+      <module name="OPERATORSS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadiusOfCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RadiusOfCircle" />
-      <module name="BASIC" />
+    <configuration name="RELATIONAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RELATIONAL" />
+      <module name="OPERATORSS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfTwoNumbers" />
-      <module name="BASIC" />
+    <configuration name="Unary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unary" />
+      <module name="OPERATORSS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfTwoNumbers" />
-        <item itemvalue="Application.RadiusOfCircle" />
-        <item itemvalue="Application.OUTPUT" />
-        <item itemvalue="Application.DATATYPES" />
-        <item itemvalue="Application.INPUT" />
+        <item itemvalue="Application.Assigment" />
+        <item itemvalue="Application.Arithmetic" />
+        <item itemvalue="Application.Logical" />
+        <item itemvalue="Application.RELATIONAL" />
+        <item itemvalue="Application.Unary" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +134,28 @@
       <option name="presentableId" value="Default" />
       <updated>1704854476436</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 1/100 daysOfChallenge">
+      <option name="closed" value="true" />
+      <created>1704856093980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704856093981</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 1/100 daysOfChallenge">
+      <option name="closed" value="true" />
+      <created>1704856151813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704856151813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 1/100 daysOfChallenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1/100 daysOfChallenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
