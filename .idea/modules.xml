@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BASIC/BASIC.iml" filepath="$PROJECT_DIR$/BASIC/BASIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CALCULATOR/CALCULATORPROJECT.iml" filepath="$PROJECT_DIR$/CALCULATOR/CALCULATORPROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CONITIONAL STATEMENTS/CONITIONAL STATEMENTS.iml" filepath="$PROJECT_DIR$/CONITIONAL STATEMENTS/CONITIONAL STATEMENTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Course.iml" filepath="$PROJECT_DIR$/Java_Course.iml" />
       <module fileurl="file://$PROJECT_DIR$/OPERATORSS/OPERATORSS.iml" filepath="$PROJECT_DIR$/OPERATORSS/OPERATORSS.iml" />
     </modules>

@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02006cf4-a99c-432b-8199-e58b79652bd3" name="Changes" comment="Day 1/100 daysOfChallenge">
-      <change afterPath="$PROJECT_DIR$/OPERATORSS/OPERATORSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Assigment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Logical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/RELATIONAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OPERATORSS/src/Unary.java" afterDir="false" />
+    <list default="true" id="02006cf4-a99c-432b-8199-e58b79652bd3" name="Changes" comment="Day 2/100 daysOfChallenge">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CALCULATOR/CALCULATORPROJECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CALCULATOR/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CALCULATOR/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/CONITIONAL STATEMENTS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/Elseif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/INCOMETAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/Ifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/Largestof3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/ODDorEVEN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/SWitchStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/Ternaryoperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/ageifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/failorpass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONITIONAL STATEMENTS/src/largestoftwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OPERATORSS/src/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/OPERATORSS/src/Arithmetic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +39,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Saikumar0701&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="334bd463-ee66-488d-97c7-aeeacc476bce" />
+        <option name="url" value="https://github.com/Saikumar0701/Java_Course.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -47,18 +71,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Arithmetic.executor": "Run",
     "Application.Assigment.executor": "Run",
+    "Application.Calculator.executor": "Run",
     "Application.DATATYPES.executor": "Run",
+    "Application.Elseif.executor": "Run",
+    "Application.INCOMETAX.executor": "Run",
     "Application.INPUT.executor": "Run",
+    "Application.Ifelse.executor": "Run",
     "Application.Java.executor": "Run",
+    "Application.Largestof3.executor": "Run",
     "Application.Logical.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ODDorEVEN.executor": "Run",
     "Application.OUTPUT.executor": "Run",
     "Application.RELATIONAL.executor": "Run",
     "Application.RadiusOfCircle.executor": "Run",
+    "Application.SWitchStatements.executor": "Run",
     "Application.SumOfTwoNumbers.executor": "Run",
+    "Application.Ternaryoperator.executor": "Run",
     "Application.Unary.executor": "Run",
+    "Application.ageifelse.executor": "Run",
+    "Application.failorpass.executor": "Run",
+    "Application.largestoftwo.executor": "Run",
     "Application.m.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -68,53 +104,54 @@
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/dodda/IdeaProjects/Java_Course/OPERATORS/src/Main.java",
-    "onboarding.tips.debug.path": "C:/Users/dodda/IdeaProjects/Java_Course/OPERATORSS/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/dodda/IdeaProjects/Java_Course/CALCULATOR/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "two.files.diff.last.used.file": "C:/Users/dodda/IdeaProjects/Java_Course/OPERATORS/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Assigment">
-    <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arithmetic" />
-      <module name="OPERATORSS" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="CALCULATORPROJECT" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assigment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assigment" />
-      <module name="OPERATORSS" />
+    <configuration name="Largestof3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Largestof3" />
+      <module name="CONITIONAL STATEMENTS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Logical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Logical" />
-      <module name="OPERATORSS" />
+    <configuration name="SWitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWitchStatements" />
+      <module name="CONITIONAL STATEMENTS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RELATIONAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RELATIONAL" />
-      <module name="OPERATORSS" />
+    <configuration name="Ternaryoperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ternaryoperator" />
+      <module name="CONITIONAL STATEMENTS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Unary" />
-      <module name="OPERATORSS" />
+    <configuration name="failorpass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="failorpass" />
+      <module name="CONITIONAL STATEMENTS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Assigment" />
-        <item itemvalue="Application.Arithmetic" />
-        <item itemvalue="Application.Logical" />
-        <item itemvalue="Application.RELATIONAL" />
-        <item itemvalue="Application.Unary" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.SWitchStatements" />
+        <item itemvalue="Application.failorpass" />
+        <item itemvalue="Application.Ternaryoperator" />
+        <item itemvalue="Application.Largestof3" />
       </list>
     </recent_temporary>
   </component>
@@ -150,12 +187,22 @@
       <option name="project" value="LOCAL" />
       <updated>1704856151813</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 2/100 daysOfChallenge">
+      <option name="closed" value="true" />
+      <created>1704900739497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704900739497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Day 1/100 daysOfChallenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 1/100 daysOfChallenge" />
+    <MESSAGE value="Day 2/100 daysOfChallenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2/100 daysOfChallenge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -169,6 +216,57 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>4</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CONITIONAL STATEMENTS/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CONITIONAL STATEMENTS/src/failorpass.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CALCULATOR/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CONITIONAL STATEMENTS/src/Ifelse.java</url>
+          <line>2</line>
+          <properties class="Ifelse" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CONITIONAL STATEMENTS/src/INCOMETAX.java</url>
+          <line>3</line>
+          <properties class="INCOMETAX" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CONITIONAL STATEMENTS/src/failorpass.java</url>
+          <line>3</line>
+          <properties class="failorpass" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/CONITIONAL STATEMENTS/src/SWitchStatements.java</url>
+          <line>4</line>
+          <properties class="SWitchStatements" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

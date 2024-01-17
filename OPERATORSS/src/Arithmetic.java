@@ -23,7 +23,5 @@ public class Arithmetic {
         System.out.println(divide);
         System.out.println(modulo);
         System.out.println(sum+sub+multi+divide+modulo);
-
-
     }
 }
