@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class DATATYPES {
     public static void main(String[] argumnets) {
-        Scanner sc = new Scanner(System.in);
         int a = 2900000;
         System.out.println(a);
 
@@ -13,6 +12,7 @@ public class DATATYPES {
 
         float d = 1.8877f;
         System.out.println(d);
+        Scanner sc = new Scanner(System.in);
 
         Long e = 1988778l;
         System.out.println(e);
